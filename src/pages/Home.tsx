@@ -1,5 +1,3 @@
-import React from "react";
-
 function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-teal-100 to-white font-sans">

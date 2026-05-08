@@ -1,5 +1,3 @@
-import React from "react";
-
 function Schedule() {
   return (
     <div className="min-h-screen bg-gray-50 px-6 py-10">
